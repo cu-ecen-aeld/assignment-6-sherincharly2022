@@ -1,1 +1,2 @@
-# assignment-6-sherincharly2022
+# yocto-assignments-base
+Base repository for AESD Yocto assignments
